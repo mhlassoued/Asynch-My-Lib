@@ -12,11 +12,11 @@ The project is based on one Library case (example). But i beleive that can be ex
 
 How to configure, how to use?
 -----------------------------
-Step 1. Paste your library in the appropriet place.
+Step 1. Paste your library in the appropriet place into "asynch-My-Lib.js". From now it will replace your Library.
 
-Step 2. Rename the JS file with your library name.
+Step 2. Rename the asynch-My-Lib.js with your library name.
 
-Step 3. Use the format bellow, when you call you library from a web page. copy paste and replace the "put_library_name" :
+Step 3. Use the format bellow, when you call your library from a web page. copy paste and replace the "put_library_name". Indeed with your Library name:
 
 		<script type="text/javascript">
 			var myAsyncLib = myAsyncLib || [];
@@ -30,9 +30,9 @@ Step 3. Use the format bellow, when you call you library from a web page. copy p
 		</script>
 
 Step4. The following format will replace your classic function calls : 
-
+ 	myAsyncLib.push(['scope1.scope2...scopeN', param1,param2,,,paramN]);
 	Example:
-		Clasic Call:
+		Classic Call:
 			scope.myFunction('string',123456789,[tab],{name : 'myname'});
 		Asynchronous Call:
 			myAsyncLib.push(['scope.myFunction', 'string',123456789,[tab],{name : 'myname'}]);
