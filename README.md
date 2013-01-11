@@ -1,15 +1,17 @@
 Asynch-My-Lib
 =============
 
-Nowadays, websites includes a growing number of JavaScript libraries, which (Libraries) become also more and more huge. 
+Nowadays, websites includes a growing number of JavaScript libraries, which becomes also more and more huge. 
 
 This is where Asynch-My-Lib occurs to asynchronise any JS library.
 
-So let's "asynchrnise" your Library!
+So let's "Asynchrnise" your Library!
+
+Theproject is based on one Library case (example). But i beleive that can be extended to Asynchronise and manage all used JavaScript libraries in one place... 
 
 
 How to configure, how to use?
------------------
+-----------------------------
 Step 1. Paste your library in the appropriet place.
 
 Step 2. Rename the JS file with your library name.
