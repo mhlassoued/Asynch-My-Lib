@@ -31,11 +31,13 @@ Step 3. Use the format bellow, when you call your library from a web page. copy 
 
 Step4. The following format will replace your classic function calls : 
 
+	var myAsyncLib = myAsyncLib || [];
  	myAsyncLib.push(['scope1.scope2...scopeN.functionName', param1,param2,,,paramN]);
  	
 	Example:
 		Classic Call:
 			scope.myFunction('string',123456789,[tab],{name : 'myname'});
 		Asynchronous Call:
+			var myAsyncLib = myAsyncLib || [];
 			myAsyncLib.push(['scope.myFunction', 'string',123456789,[tab],{name : 'myname'}]);
 
