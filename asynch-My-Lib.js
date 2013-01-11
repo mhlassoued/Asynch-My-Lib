@@ -4,6 +4,8 @@
  *
  * Copyright 2012, Hedi Lassoued : mhlassoued@gmail.com
  * Dual licensed under the MIT or GPL Version 2 licenses.
+ * https://github.com/mhlassoued/Asynch-My-Lib/blob/master/License-MIT.txt
+ * https://github.com/mhlassoued/Asynch-My-Lib/blob/master/License-GPL.txt
  *
  * Date Friday Jan 11 07:00:00 2012 -0500
  */
