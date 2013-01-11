@@ -3,10 +3,12 @@ Asynch-My-Lib
 
 Nowadays, websites includes a growing number of JavaScript libraries, which (Libraries) become also more and more huge. 
 
-This is where Asynch-My-Lib occurs to rend any JS library asynchoronous, using the same technology : Asynch-My-Lib
+This is where Asynch-My-Lib occurs to asynchronise any JS library.
+
+So let's "asynchrnise" your Library!
 
 
-How to configure and use?
+How to configure, how to use?
 -----------------
 Step 1. Paste your library in the appropriet place.
 
