@@ -5,7 +5,7 @@
  * Copyright 2012, Hedi Lassoued : mhlassoued@gmail.com
  * Dual licensed under the MIT or GPL Version 2 licenses.
  *
- * Date Friday Jan 11 12:00:00 2012 -0500
+ * Date Friday Jan 11 07:00:00 2012 -0500
  */
  
 ////////////////////////////////////////////////////
