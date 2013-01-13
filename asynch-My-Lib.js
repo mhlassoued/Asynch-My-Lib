@@ -2,7 +2,7 @@
  * Asynch. My Library v0.1
  * https://github.com/mhlassoued/Asynch-My-Lib
  *
- * Copyright 2012, Hedi Lassoued : mhlassoued@gmail.com
+ * Copyright 2013, Hedi Lassoued : mhlassoued@gmail.com
  * Dual licensed under the MIT or GPL Version 2 licenses.
  * https://github.com/mhlassoued/Asynch-My-Lib/blob/master/License-MIT.txt
  * https://github.com/mhlassoued/Asynch-My-Lib/blob/master/License-GPL.txt
