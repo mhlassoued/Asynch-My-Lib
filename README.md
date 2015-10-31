@@ -10,7 +10,7 @@ This is where Asynch-My-Lib occurs to asynchronise any JS library.
 
 So let's "Asynchrnise" your Library!
 
-The project is based on one Library case (example). But i beleive that can be extended to Asynchronise and manage all used JavaScript libraries in one place... 
+The project is based on one Library case (example). But i believe that can be extended to Asynchronise and manage all used JavaScript libraries in one place... 
 
 
 How to configure, how to use?
